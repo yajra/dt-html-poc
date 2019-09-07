@@ -3348,12 +3348,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/yajra/laravel-datatables-buttons.git",
-                "reference": "f4e6439676179368e761e88bbedc02c4bff8f0a9"
+                "reference": "2ee99311e0777b6856dd164c9476dfd4cf31ab5f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yajra/laravel-datatables-buttons/zipball/f4e6439676179368e761e88bbedc02c4bff8f0a9",
-                "reference": "f4e6439676179368e761e88bbedc02c4bff8f0a9",
+                "url": "https://api.github.com/repos/yajra/laravel-datatables-buttons/zipball/2ee99311e0777b6856dd164c9476dfd4cf31ab5f",
+                "reference": "2ee99311e0777b6856dd164c9476dfd4cf31ab5f",
                 "shasum": ""
             },
             "require": {
@@ -3404,7 +3404,7 @@
                 "jquery",
                 "laravel"
             ],
-            "time": "2019-09-07T07:33:13+00:00"
+            "time": "2019-09-07T12:48:30+00:00"
         },
         {
             "name": "yajra/laravel-datatables-html",
